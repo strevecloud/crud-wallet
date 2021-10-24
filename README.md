@@ -1,6 +1,6 @@
 ## Quick Setup
 
-- Clone this repository
+- Clone this repository master branch
 - Execute: `composer install`
 - Duplicate `.env.example` file as `.env`. And change the based on your local enviroment:
   - `DB_PORT=3306`
